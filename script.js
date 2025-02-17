@@ -6,7 +6,7 @@ function checkPassword() {
     // Define passwords and corresponding pages
     const passwordPages = {
         "292832": "page1.html",
-        "i_have_1_google_braya": "page3.html"
+        "3lueMONT2928!": "page3.html"
     };
 
     if (passwordPages[password]) {
